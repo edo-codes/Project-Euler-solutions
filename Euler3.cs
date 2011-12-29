@@ -49,7 +49,6 @@ namespace euler
 				else
 					yield return i;
 			}
-			yield break;
 		}
 
 		static ulong largestprimedivisor (ulong n)
